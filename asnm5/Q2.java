@@ -1,3 +1,6 @@
+// Write a program containing nested try-catch blocks. Generate different exceptions in 
+// the inner and outer blocks and demonstrate how exception propagation works.
+
 public class Q2 {
 
     static void demonstrate() {

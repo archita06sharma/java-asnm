@@ -1,3 +1,10 @@
+// Implement a simple banking application supporting deposit and withdrawal. Create a 
+// custom InsufficientBalanceException. Create a custom InvalidAmountException. 
+// Prevent withdrawal when the balance is insufficient. Prevent zero or negative 
+// deposits/withdrawals. Demonstrate exception propagation from one method to 
+// another. Display the account balance after successful transactions. Add 
+// AccountNotFoundException for invalid account numbers
+
 class InsufficientBalanceException extends Exception {
 
     public InsufficientBalanceException(String message) {

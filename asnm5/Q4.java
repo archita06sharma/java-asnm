@@ -1,3 +1,8 @@
+// Create a student result-processing program that accepts marks for several subjects. 
+// Marks must be between 0 and 100. Create a custom InvalidMarksException. Throw 
+// the exception when invalid marks are entered. Calculate total, percentage, and grade 
+// only when all input is valid. Display a meaningful error message. 
+
 import java.util.Scanner;
 
 class InvalidMarksException extends Exception {

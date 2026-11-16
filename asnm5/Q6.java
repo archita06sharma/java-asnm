@@ -1,3 +1,9 @@
+// Develop a login system with exception-based validation. Create custom exceptions 
+// such as: InvalidUsernameException, InvalidPasswordException, 
+// AccountLockedException, Allow only a fixed number of failed login attempts. Lock 
+// the account after the maximum attempts. Use try-catch-finally appropriately. Display 
+// different messages for different failures. 
+
 class InvalidUsernameException extends Exception {
 
     public InvalidUsernameException(String message) {

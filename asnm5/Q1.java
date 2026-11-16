@@ -1,3 +1,7 @@
+// Create a program that demonstrates the hierarchy of common exceptions such as 
+// ArithmeticException, NullPointerException, ArrayIndexOutOfBoundsException, and 
+// NumberFormatException. 
+
 public class Q1 {
 
     public static void main(String[] args) {

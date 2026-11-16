@@ -1,3 +1,9 @@
+// Design a small shopping/cart application that uses a complete exception hierarchy. 
+// Given below is the suggested hierarchy 
+// Implement the appropriate operations like add/remove, payment, search products etc. 
+// Use appropriate exception handlers and debug the program using breakpoints and 
+// variable inspection. 
+
 import java.util.ArrayList;
 import java.util.List;
 

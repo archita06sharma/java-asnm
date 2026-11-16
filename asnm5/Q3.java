@@ -1,3 +1,7 @@
+// Develop a calculator that accepts two numbers and an operator (+, -, *, /). It should be 
+// able to handle the following exceptions: Division by zero, Invalid numeric input, 
+// Invalid operators. Use separate exception handlers for different errors. 
+
 import java.util.Scanner;
 
 public class Q3 {
